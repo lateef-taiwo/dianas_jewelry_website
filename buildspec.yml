@@ -10,3 +10,4 @@ phases:
      - aws s3 sync . s3://demo-class5190 # Deploy your build artifacts to an S3 bucket.
 artifacts:
  files: '**/*'
+ 
